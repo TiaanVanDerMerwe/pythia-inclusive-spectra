@@ -1,0 +1,12 @@
+# Compile files
+build/
+
+# Papers
+papers/
+
+# Output files
+*.csv
+*.log
+*.txt
+*.png
+*Zone.Identifier
